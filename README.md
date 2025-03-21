@@ -1,1 +1,1 @@
-# bookinfo
+# app-b
